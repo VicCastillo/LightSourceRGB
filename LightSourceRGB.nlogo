@@ -192,9 +192,10 @@ NIL
 
 ## WHAT IS IT?
 
-
+A lens
 
 ![By User Fir0002 on en.wikipedia: Large convex lens] (http://upload.wikimedia.org/wikipedia/commons/8/82/Large_convex_lens.jpg)
+
 
 ## HOW IT WORKS
 
